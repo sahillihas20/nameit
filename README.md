@@ -1,2 +1,2 @@
 # Name It!
-A "name Generator App" !!
+A "Name Generator App" !!
