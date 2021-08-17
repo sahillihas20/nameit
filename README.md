@@ -1,2 +1,2 @@
 # Name It!
-A "Name Generator App" !!
+A "Name Suggestion  React-App" !!
