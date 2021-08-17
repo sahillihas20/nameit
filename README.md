@@ -1,2 +1,1 @@
-# nameit
-An app for name suggestions
+# Name It!
